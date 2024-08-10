@@ -26,3 +26,4 @@ python blender_interface.py
 ```bash
 python sranipal2keypoints.py -path sample_data.csv
 ```
+Then output is created in `sample_data.npz`.
